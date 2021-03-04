@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Abílio Júnior</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>CLP, Automação, Redundacia | Abílio Júnior</title>
+    <link>/tags/clp-automacao-redundacia/</link>
+      <atom:link href="/tags/clp-automacao-redundacia/index.xml" rel="self" type="application/rss+xml" />
+    <description>CLP, Automação, Redundacia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>CLP, Automação, Redundacia</title>
+      <link>/tags/clp-automacao-redundacia/</link>
     </image>
     
     <item>
@@ -63,24 +63,6 @@ Neste artigo você viu como funciona o sistema de redundância das CPUs modelo S
 &lt;p&gt;&lt;a href=&#34;https://support.industry.siemens.com/cs/ww/en/view/86140384&#34;&gt;https://support.industry.siemens.com/cs/ww/en/view/86140384&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://support.industry.siemens.com/cs/ww/en/view/86630375&#34;&gt;https://support.industry.siemens.com/cs/ww/en/view/86630375&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://support.industry.siemens.com/My/ww/en/documentation&#34;&gt;https://support.industry.siemens.com/My/ww/en/documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Domingo 03/05/2020</title>
-      <link>/post/o-que-aprendi-essa-semana/2020-05-03/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/o-que-aprendi-essa-semana/2020-05-03/</guid>
-      <description>&lt;p&gt;Esta  semana &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modelo de arquieturas</title>
-      <link>/post/analise-de-arquiteturas/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/analise-de-arquiteturas/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
     </item>
     
